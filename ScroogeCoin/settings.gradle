@@ -1,0 +1,3 @@
+rootProject.name = 'ScroogeCoin'
+rootProject.buildFileName = 'build.gradle.kts'
+

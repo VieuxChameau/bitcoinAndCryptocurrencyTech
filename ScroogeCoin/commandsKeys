@@ -1,0 +1,9 @@
+keytool -genkeypair -alias scrooge -keyalg RSA -keystore keystore.jks
+
+keytool -genkeypair -alias donald -keyalg RSA -keystore keystore.jks
+
+keytool -genkeypair -alias huey -keyalg RSA -keystore keystore.jks
+
+keytool -genkeypair -alias dewey -keyalg RSA -keystore keystore.jks
+
+keytool -genkeypair -alias louis -keyalg RSA -keystore keystore.jks
